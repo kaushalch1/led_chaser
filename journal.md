@@ -20,3 +20,19 @@ By seeing my schematics in book I figured out the elements  in kicad schematic e
 
 
 -------
+# date:17/9
+# time spent:0.75hr
+## description:
+First I completed the schematics part of the 4017 by connecting each pin by connecting it to the each led and then connecting it to the resistor and the grounding the circuit and now I assigned the footprints to each part that is available and then will start the pcb soon this night
+## images:
+
+
+-------
+# date:17/9
+# time spent:1.25hr
+## description:
+I started the pcb by making the shape as circle because square is so basic so I started making circles so that it represents a ccompass and then routed the wires and also  learned how the vias are made ,it connects the top copper layer to the bottom copper layer using via and then now I should more customize it by adding a button or switch that can be used travel now I should change the schematics by adding a button now
+## images:
+
+
+-------
