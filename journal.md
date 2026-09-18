@@ -60,3 +60,19 @@ First thing I started with the removing the resistance from then connecting each
 
 
 -------
+# date:18/9
+# time spent:1.25hr
+## description:
+Firstly I started the today’s part by making the routing of wires but some wires was connecting unlike my before projects ,this project has many wires and then it was easy to connect the wires from starting and then at a point there was no way that remaining wires can pass through the circuit so I learned about vias I will explain you and the vias means when you hit a place where the wires can't pass just draw the wire where the meeting point is and then press v and the draw a linr to the other side that will make it cross the layer and the wire and from there you can cgot to the destination so now I removed all the wires now and then plotted them again and now used vias where needed and now I understood the usage of vias it was so cool btw and also drawing the pcb in a compass shaped was also too hard
+## images:
+
+
+-------
+# date:18/9
+# time spent:1.25hr
+## description:
+First I started measuring the pcb part from the center and written in the notepad and then started drawing the outline of the design it was too big and after drawing I have extruded it from the center and then when I was extruding a cut of the text it wasn’t working I was not understanding because I didn’t deal with circles anytime then I understood that instead extruding it embossed it inside and it worked
+## images:
+
+
+-------
