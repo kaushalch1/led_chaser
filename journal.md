@@ -76,3 +76,20 @@ First I started measuring the pcb part from the center and written in the notepa
 
 
 -------
+# date:18/9
+# time spent:1hr
+## description:
+I got an super idea of drawing a world map on my board but it isn’t easy to do but as a newbie in cad it was a pretty difficult task so got an idea of taking a world map and sketching on it and I completed the half map by doing this but when I was moving the points my pc got hanged and at a point it was stuck and then there was no option to close the app and then I reopened the app every progress was lost and one good thing is I didn’t panic rather I have taken some screenshots that I can show that for reference ,now need to make the map again ＞﹏＜
+## images:
+
+
+-------
+# date:18/9
+# time spent:1.5hr
+## description:
+In the previous journal my every progress was gone and again I had to do my world map again it was a bit frustrating and again I did the world map on ttracing it on a map and then moving it on the case this time it was working absolutely fine with no errorss and then I extruded it inside and the covered the oceans with glass so that it becomes even it was so cool to see it on the map
+## images:
+
+
+-------
+
