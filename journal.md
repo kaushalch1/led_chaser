@@ -92,4 +92,20 @@ In the previous journal my every progress was gone and again I had to do my worl
 
 
 -------
+# date:18/9
+# time spent:0.5hr
+## description:
+Now I am thinking to make a plate for the case so that it can cover the pcb and I have started today’s work from the measurements part which is kinda difficult it looks simple but the catch is we have to measure it with respect to the center and for the angle we have to measure it from the side leds so that we can complete the cad plate modeld then I extruded it inside and the covered the oceans with glass so that it becomes even it was so cool to see it on the map
+## images:
+
+
+-------
+# date:18/9
+# time spent:1hr
+## description:
+I started by placing a new design in fusion and honestly making circles is pretty difficult not drawing but the distance from points is very time taken,good thing is that I noted all the values in the notepad and hat helped a lot and then by seeing the notepad I drew circle distances between  each circles and the center too
+## images:
+
+
+-------
 
