@@ -101,7 +101,7 @@ Now I am thinking to make a plate for the case so that it can cover the pcb and 
 
 -------
 # date:18/9
-# time spent:1hr
+# time spent:0.5hr
 ## description:
 I started by placing a new design in fusion and honestly making circles is pretty difficult not drawing but the distance from points is very time taken,good thing is that I noted all the values in the notepad and hat helped a lot and then by seeing the notepad I drew circle distances between  each circles and the center too
 ## images:
