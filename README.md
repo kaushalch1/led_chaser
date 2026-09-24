@@ -61,11 +61,17 @@ Possible future enhancements include:
 The Compass LED Chaser represents the excitement of exploration and the joy of travel. Each rotating LED symbolizes taking the next step toward discovering new places, cultures, and experiences. It serves as a reminder that every adventure starts by choosing a direction and moving forward.
 
 schematic files
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/44df2f70-35b8-4f1e-872b-0c56458a7b17" />
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/696c8685-62eb-465b-9c97-730a5112fb67" />
+
 pcb files
-<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/3de7bcb4-49c5-4c6c-a4b7-5893b843acaf" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/fbbb21f7-5547-4ed2-ac5c-b3e9742cf356" />
+
 ## 3d
-case top view:<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/08bfb476-2f66-4920-89fd-2d378a36f678" />
-case bottom view:<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/0092960d-31bc-446b-975f-1b0b8174c79a" />
-middle panel on pcb:<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/196cbccd-743b-4334-b2f0-978118ccd498" />
-top lid:<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/903258ba-048a-428c-b630-c7d2f5d11e49" />
+case top view:<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/cffcd6bc-49fe-4f07-89de-a97a38df951c" />
+
+case bottom view:<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/03fc2ffa-be41-4ec7-acc0-87d7c0bc69a8" />
+
+middle panel on pcb:<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/33adc44e-e15a-4794-b1d8-90589c634a9f" />
+
+top lid:<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/0a463530-5e12-458d-8259-19974e7ae8e3" />
+
