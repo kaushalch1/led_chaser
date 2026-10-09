@@ -1,6 +1,6 @@
-# Compass LED Chaser – Travel Edition
+# Compass LED Chaser 
 
-The **Compass LED Chaser – Travel Edition** is a travel based PCB project that combines the pcb with the cad model.it is Designed in the shape of a compass, the board features eight LEDs arranged around the compass points. The LEDs illuminate sequentially, it can be used for  adventure, and the excitement of discovering new destinations.
+The **Compass LED Chaser** is a travel based PCB project that combines the pcb with the cad model.it is Designed in the shape of a compass, the board features eight LEDs arranged around the compass points. The LEDs illuminate sequentially, it can be used for  adventure, and the excitement of discovering new destinations.
 
 Powered via **USB Type-C**, the project is portable and can be used with a power bank, laptop, or USB charger, making it an ideal travel companion or desk decoration.
 
@@ -20,7 +20,14 @@ And also we can store the pcb in the special case
 - Beginner-friendly digital electronics project
 
 ---
+## Why I Made This Project
 
+Most beginner LED projects are just a few LEDs blinking on a rectangular board. i wanted to make something that had a theme, and travel is something I love.
+
+a compass stands for exploration and choosing where to go next. So I designed a PCB in the shape of a compass, with eight LEDs placed at the compass points with 8 directions.
+
+
+The result is a small, portable board that works as a decorative travel accessory.
 ## Components Used
 
 | Component | Quantity |
@@ -48,7 +55,11 @@ Although designed primarily as an educational electronics project, the Compass L
 - Gift for travel and adventure enthusiasts
 
 The Compass LED Chaser represents the excitement of exploration and the joy of travel. Each rotating LED symbolizes taking the next step toward discovering new places, cultures, and experiences. It serves as a reminder that every adventure starts by choosing a direction and moving forward.
-
+## How To Use It
+Plug a usb Type-C cable into the board.
+Slide the switch to ON. The LEDs start chasing around the compass.
+Press the reset button to restart the sequence from the first LED.
+Slide the switch to OFF and close the lid when travelling.
 schematic files
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/696c8685-62eb-465b-9c97-730a5112fb67" />
 
