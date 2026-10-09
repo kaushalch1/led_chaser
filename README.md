@@ -54,6 +54,8 @@ schematic files
 
 pcb files
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/fbbb21f7-5547-4ed2-ac5c-b3e9742cf356" />
+full assembly
+<img width="1917" height="772" alt="image" src="https://github.com/user-attachments/assets/17bd4936-2bf1-40d1-84ec-f88f5904058c" />
 
 ## 3d
 case top view:<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/cffcd6bc-49fe-4f07-89de-a97a38df951c" />
