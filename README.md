@@ -29,23 +29,22 @@ a compass stands for exploration and choosing where to go next. So I designed a 
 
 The result is a small, portable board that works as a decorative travel accessory.
 ## Components Used
+**Total Estimated Cost: $3.30 USD**
 
-| Component | Quantity |
-|-----------|---------:|
-| NE555 Timer IC | 1 |
-| CD4017 Decade Counter | 1 |
-| LEDs | 8 |
-| 330 Ω Resistors | 8 |
-| 1 kΩ Resistor | 1 |
-| 10 kΩ Resistor | 1 |
-| 50 kΩ Potentiometer | 1 |
-| 1 µF Capacitor | 1 |
-| 0.01 µF Capacitor | 1 |
-| 100 nF Capacitors | 2 |
-| 10 µF Capacitor | 1 |
-| USB Type-C Connector | 1 |
-| Slide ON/OFF Switch | 1 |
-| Push Button (Reset) | 1 |
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|---|---|---:|---:|---|---|
+| CD4017BE (DIP-16) | Decade counter (LED sequencer) | 1 | 0.76 | [Link](https://www.lcsc.com/product-detail/C34519.html) | LCSC |
+| Bourns 3296W-1-503LF 50k trimmer | Speed adjust potentiometer | 1 | 0.92 | [Link](https://www.lcsc.com/product-detail/C83686.html) | LCSC |
+| NE555P (DIP-8) | Clock oscillator timer | 1 | 0.33 | [Link](https://www.lcsc.com/product-detail/C46749.html) | LCSC |
+| USB-C receptacle (TYPE-C-31-M-12) | USB-C power input | 1 | 0.19 | [Link](https://www.lcsc.com/product-detail/C165948.html) | LCSC |
+| Tactile switch SMD (Omron B3S-1000) | Switch SW1 | 1 | 0.25 | [Link](https://www.lcsc.com/search?q=B3S-1000) | LCSC |
+| LED 3mm THT | Chaser LEDs | 8 | 0.24 | [Link](https://www.lcsc.com/search?q=3mm+LED+THT) | LCSC |
+| Resistors 1/4W axial (1k, 5.1k, 330R, 10k) | LED, timing, pull-down and CC resistors | 12 | 0.12 | [Link](https://www.lcsc.com/search?q=1%2F4W+axial+resistor) | LCSC |
+| Tact switch 6mm THT | Switch SW2 | 1 | 0.04 | [Link](https://www.lcsc.com/search?q=tactile+switch+6x6+THT) | LCSC |
+| 1uF radial electrolytic capacitor (5mm) | Timing/filter capacitor | 1 | 0.03 | [Link](https://www.lcsc.com/search?q=1uF+radial+electrolytic) | LCSC |
+| 10nF disc ceramic capacitor (5mm) | Control-pin decoupling capacitor | 1 | 0.02 | [Link](https://www.lcsc.com/search?q=10nF+disc+ceramic+capacitor) | LCSC |
+| PCB (bare board) | Main PCB | 1 | 0.40 | [Link](https://jlcpcb.com/) | JLCPCB |
+
 
 ## Travel Applications
 
