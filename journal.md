@@ -1,5 +1,5 @@
 # date:17/9
-# time spent:0.5hr
+# time spent:0.75hr
 ## description:
 My new project is named as led chaser useful for travelling I started by gathering resources in internet not only parts also the footprints and the schematics that are used for this project they are
 •	NE555P
@@ -22,14 +22,12 @@ By seeing my schematics in book I figured out the elements  in kicad schematic e
 
 -------
 # date:17/9
-# time spent:0.75hr
+# time spent:1hr
 ## description:
 First I completed the schematics part of the 4017 by connecting each pin by connecting it to the each led and then connecting it to the resistor and the grounding the circuit and now I assigned the footprints to each part that is available and then will start the pcb soon this night
 ## images:
 
 <img width="1090" height="578" alt="image" src="https://github.com/user-attachments/assets/1767d5ca-8b1e-4ae6-a3e5-cc82c7603a6e" />
-
-
 <img width="1090" height="599" alt="image" src="https://github.com/user-attachments/assets/56414b17-a476-4e0f-9fa7-c974887de090" />
 
 -------
@@ -44,7 +42,7 @@ I started the pcb by making the shape as circle because square is so basic so I 
 
 -------
 # date:17/9
-# time spent:0.5hr
+# time spent:0.75hr
 ## description:
 I was wondering how to make mine led chaser useful  for travelling so got an idea of adding an port that can help with the charging issue and then added the resistor first and then was confused about switches I saw and tried many but this is the SW_SPST required  type and completed the usb part
 ## images:
@@ -66,7 +64,7 @@ First thing I started with the removing the resistance from then connecting each
 
 -------
 # date:18/9
-# time spent:1.25hr
+# time spent:1.5hr
 ## description:
 Firstly I started the today’s part by making the routing of wires but some wires was connecting unlike my before projects ,this project has many wires and then it was easy to connect the wires from starting and then at a point there was no way that remaining wires can pass through the circuit so I learned about vias I will explain you and the vias means when you hit a place where the wires can't pass just draw the wire where the meeting point is and then press v and the draw a linr to the other side that will make it cross the layer and the wire and from there you can cgot to the destination so now I removed all the wires now and then plotted them again and now used vias where needed and now I understood the usage of vias it was so cool btw and also drawing the pcb in a compass shaped was also too hard
 ## images:
@@ -78,7 +76,7 @@ Firstly I started the today’s part by making the routing of wires but some wir
 
 -------
 # date:18/9
-# time spent:1.25hr
+# time spent:1.5hr
 ## description:
 First I started measuring the pcb part from the center and written in the notepad and then started drawing the outline of the design it was too big and after drawing I have extruded it from the center and then when I was extruding a cut of the text it wasn’t working I was not understanding because I didn’t deal with circles anytime then I understood that instead extruding it embossed it inside and it worked
 ## images:
@@ -92,7 +90,7 @@ First I started measuring the pcb part from the center and written in the notepa
 
 -------
 # date:18/9
-# time spent:1hr
+# time spent:1.25hr
 ## description:
 I got an super idea of drawing a world map on my board but it isn’t easy to do but as a newbie in cad it was a pretty difficult task so got an idea of taking a world map and sketching on it and I completed the half map by doing this but when I was moving the points my pc got hanged and at a point it was stuck and then there was no option to close the app and then I reopened the app every progress was lost and one good thing is I didn’t panic rather I have taken some screenshots that I can show that for reference ,now need to make the map again ＞﹏＜
 ## images:
@@ -125,15 +123,23 @@ Now I am thinking to make a plate for the case so that it can cover the pcb and 
 
 -------
 # date:18/9
-# time spent:0.5hr
+# time spent:0.75hr
 ## description:
 I started by placing a new design in fusion and honestly making circles is pretty difficult not drawing but the distance from points is very time taken,good thing is that I noted all the values in the notepad and hat helped a lot and then by seeing the notepad I drew circle distances between  each circles and the center too
 ## images:
 
 <img width="1090" height="576" alt="image" src="https://github.com/user-attachments/assets/4a36dda2-aa95-43c0-8d18-57f9c1ac4d49" />
-
 <img width="1090" height="573" alt="image" src="https://github.com/user-attachments/assets/9b395da0-6705-4c1f-b25b-cce27ddbb1c5" />
 
 
 -------
+# date:22/10
+# time spent:1.25hr
+## description:
+first i started by moving the usb to the cornner of the board and then rotating with some angle and then re routing it,and then i had cut the usb part in the cad part and then rendered files and added them in github
+## images:
+<img width="957" height="786" alt="image" src="https://github.com/user-attachments/assets/daab653d-7a3a-470d-8ec4-4262e698e57b" />
+<img width="1406" height="766" alt="image" src="https://github.com/user-attachments/assets/dbec8471-742c-473e-9791-3fbc19f88ccb" />
 
+
+-------
