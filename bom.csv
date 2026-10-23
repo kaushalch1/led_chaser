@@ -9,6 +9,6 @@ LED 3mm THT,Chaser LEDs,8,0.24,https://www.lcsc.com/search?q=3mm+LED+THT,LCSC
 Tact switch 6mm THT,Switch SW2,1,0.04,https://www.lcsc.com/search?q=tactile+switch+6x6+THT,LCSC
 1uF radial electrolytic capacitor (5mm),Timing/filter capacitor,1,0.03,https://www.lcsc.com/search?q=1uF+radial+electrolytic,LCSC
 10nF disc ceramic capacitor (5mm),Control-pin decoupling capacitor,1,0.02,https://www.lcsc.com/search?q=10nF+disc+ceramic+capacitor,LCSC
-PCB (bare board),Main PCB,1,0.4,https://jlcpcb.com/,JLCPCB
+PCB (bare board),Main PCB,1,1.9,https://jlcpcb.com/,JLCPCB
 ,,,,,
-,,,3.3,,
+,,,5.2,,
